@@ -1,0 +1,22 @@
+/* Inserta tu CSS aqui */
+div {
+	background-color: grey;
+	height: 200px;
+	width: 200px;
+	margin: 10px;
+	border: 1px solid black;
+}
+div
+
+.tres {
+	display: inline-block;
+}
+.cuadrado {
+	height:220px;
+	width: 680px;
+	padding: 5px;
+}
+
+.dos {
+	display: inline-block;
+}
